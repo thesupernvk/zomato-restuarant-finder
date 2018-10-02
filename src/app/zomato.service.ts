@@ -2,6 +2,10 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { HttpParams } from '@angular/common/http';
 
+/**
+ * @author @thesupernvk
+ */
+
 @Injectable()
 export class ZomatoService {
 
